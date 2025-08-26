@@ -1,5 +1,5 @@
 import React from "react";
-import service1 from "../images/service1.avif";
+import service1 from "../images/service1.jpg";
 import service2 from "../images/service2.jpg";
 import service3 from "../images/service3.jpg";
 
