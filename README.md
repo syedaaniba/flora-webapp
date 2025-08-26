@@ -1,6 +1,5 @@
-# Flora Web App 🌸
-
-A modern, responsive flower shop web app built with **React** and **Vite**.
+# Flora Web App 
+A modern, responsive flower shop web app built with **React** 
 
 **Live Demo:** [https://dapper-narwhal-25e2e1.netlify.app/](https://dapper-narwhal-25e2e1.netlify.app/)
 
