@@ -6,7 +6,7 @@ A modern, responsive flower shop web app built with **React**
 ## Features
 - Responsive and mobile-friendly design
 - Fast performance with Vite
-- Product showcase with images and prices
+- Product showcase with images 
 - Smooth user interface
 
 ## Tech Stack
